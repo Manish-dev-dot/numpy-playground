@@ -1,2 +1,2 @@
 # numpy-playground
-just pythonvstuff
+just python stuff
